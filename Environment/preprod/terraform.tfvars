@@ -37,7 +37,7 @@ pips = {
     name                = "pip2_mono_preprod"
     resource_group_name = "rg_mono_preprod"
     location            = "eastus"
-    allocation_method   = "Static1"
+    allocation_method   = "Static"
   }
 }
 
